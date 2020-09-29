@@ -1,1 +1,1 @@
-# Daily plan for Learning python 
+Daily plan for Learning python with a question from hackerrank  
