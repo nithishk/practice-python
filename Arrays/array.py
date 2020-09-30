@@ -1,11 +1,12 @@
 def array_test():
 
-    arr_ = [18, 10, 11, 12]
+    arr_ = [18, 10, 10, 11, 12]
 
+    del arr_[2:]
+    print(arr_)
     arr_.append(13)
     print(arr_)
 
-    arr_.remove(12)
     print(arr_)
 
     arr_.insert(0, 10)
